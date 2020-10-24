@@ -1,0 +1,8 @@
+procedure HelloWorld;
+
+begin
+	a:= 3.14;
+	b:= 'Tes
+t'
+	WriteLn(b);
+end.

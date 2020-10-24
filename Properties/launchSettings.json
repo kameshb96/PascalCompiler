@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lexer": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\test.txt"
+    }
+  }
+}
