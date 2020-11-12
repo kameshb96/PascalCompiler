@@ -1,8 +1,7 @@
-procedure HelloWorld;
+program HelloWorld;
 
 begin
-	a:= 3.14;
-	b:= 'Tes
-t'
-	WriteLn(b);
+	if (a + 3*c >= b) then
+		a := b + 1;
 end.
+

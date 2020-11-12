@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "Lexer": {
+    "PasCompiler": {
       "commandName": "Project",
       "commandLineArgs": "..\\..\\..\\test.txt"
     }
